@@ -10,12 +10,13 @@
 </head>
 <body>
   <div class="container"> 
+    <img src="joyce.jpg" alt="ako" class="img-thumbnail" style="width:600px; height:600px;"/>
+          <button type="button" class="btn btn-primary"> Like </button>
     <div class="row">
       <div class="col-6">
           <h1>Blue Birds</h1>
   
-          <img src="joyce.jpg" alt="ako" class="img-thumbnail" style="width:600px; height:600px;"/>
-          <button type="button" class="btn btn-primary"> Like </button>
+          
       </div>
     </div>
   </div>
